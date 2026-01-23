@@ -5,6 +5,7 @@ h1{
         front-family:arial;
         font-size: 45px;
         color:white;
+        text-align: center;
 }
 
 #perrito{
@@ -12,3 +13,29 @@ h1{
         height:220px;
         border-radius:50%;
         border: 5px solid #A63F3D
+}
+x
+
+
+
+h1,h2,h3,h4,p{
+    text-align:center;
+}
+img{
+    display:block;
+    margin: 0 auto;
+}
+button{
+    display:block;
+    margin: 0 auto;
+    color:black;
+    background-color:#ffh000;
+    padding: 15px 32p
+}
+#perrito:hover {
+  box-shadow: 0 0 5px 1px blue;
+ transform: scale(1.5);
+}
+button:hover{
+ background-color:blue;
+}
