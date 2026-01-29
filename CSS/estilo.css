@@ -30,7 +30,7 @@ button{
     margin: 0 auto;
     color:black;
     background-color:#ffh000;
-    padding: 15px 32p
+    padding: 15px 32px
 }
 #perrito:hover {
   box-shadow: 0 0 5px 1px blue;
@@ -38,4 +38,22 @@ button{
 }
 button:hover{
  background-color:blue;
+}
+#tabla1 tr:hover {
+    background-color:pink;
+}
+#imgDiv{
+     width: 250px;
+     height: 220px;
+}
+.noticias {
+  border: 5px ridge #0C0018;
+  background-color: #D9D7DE;
+  padding: 2px;
+  display:flex;
+  flex-direction: column;
+}
+.noticias p {
+  font-family: Fantasy;
+  text-align.center;
 }
