@@ -1,5 +1,5 @@
 body{
-    background-color:#FF9CD6;
+    background-color:#BA9AAC;
 }
 .navbar {
     display: flex;
@@ -20,6 +20,15 @@ body{
     max-height: 50px;
 }
 
+
+table {
+   margin-left: auto;
+   margin-right: auto;
+   width: 80%
+}
+
+
+
 .hamburger {
     display: none;
     cursor: pointer;
@@ -38,7 +47,7 @@ body{
 }
 
 .cta-button {
-    background-color: #007bff;
+    background-color: D0B0C1;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
